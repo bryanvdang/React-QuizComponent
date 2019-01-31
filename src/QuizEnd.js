@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
 
 class QuizEnd extends Component{
-  render(){
+  render() {
     return(
       <div>
-        <p>Thanks for Playing!</p>
-        <a href=''>Reset Quiz</a>
+        <p>Thanks for playing!</p>
+        <a href='#'>Reset Quiz</a>
       </div>
     )
   }
